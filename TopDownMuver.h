@@ -23,7 +23,7 @@ enum class EMoveDirection : uint8
 };
 
 UCLASS()
-class PRIMERPROYECT_API ATopDownMover : public APawn
+class TOPDOWNMUVER_API ATopDownMover : public APawn
 {
     GENERATED_BODY()
 
